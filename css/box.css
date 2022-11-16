@@ -1,0 +1,152 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+
+
+.first-row {
+    background-color: gold;
+    border-radius: 20px;
+    width: 50%;
+    text-align: end;
+    color: whitesmoke;
+    font-size: 2rem;
+    margin-left: none;
+}
+
+.coll {
+    color: black;
+    font-size: 5rem;
+    position: relative;
+    bottom: 25px;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+
+.quality {
+    color: black;
+    font-size: medium;
+    margin-bottom: 30px;
+    position: relative;
+    bottom: 80px;
+}
+
+
+.first-pic {
+    position: relative;
+    right: 200px;
+    bottom: 70px;
+    border-radius: 50px;
+}
+
+.second-pic {
+    position: relative;
+    right: 220px;
+    bottom: 150px;
+    border: 5px solid white;
+    border-radius: 100px;
+}
+
+.third-row {
+    position: relative;
+    right: 340px;
+    border: 5px solid white;
+    border-radius: 100px;
+}
+
+.fourth-row {
+    position: relative;
+    right: 540px;
+}
+
+.nina {
+    position: relative;
+    left: 450px;
+    bottom: 330px;
+}
+
+p{
+    width: 14%;
+    background-color: black;
+    color: #fff;
+    position: relative;
+    bottom: 480px;
+    left: 250px;
+    border-radius: 10px;
+    border: 5px dashed green;
+}
+
+#nina-col {
+    color: yellow;
+}
+
+.ankara {
+    border: 8px solid white;
+    position: relative;
+    bottom: 750px;
+    left: 220px;
+    border-radius: 70px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: fit-content;
+    position: relative;
+    bottom: 1000px;
+    left: 0px;
+}
+
+ul {
+    position: relative;
+    bottom: 1010px;
+    left: 0px;
+}
+
+h3 {
+    position: relative;
+    bottom: 770px;
+    left: 450px;
+    background-color: black;
+    color: white;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.contact {
+    position: relative;
+    bottom: 780px;
+    left: 410px;
+}
+
+#contact {
+    list-style: none;
+}
+
+.facebook {
+    position: relative;
+    bottom: 797px;
+    left: 420px;
+}
+
+.instagram {
+    position: relative;
+    bottom: 765px;
+    left: 390px;
+}
+
+#media1 {
+    position: relative;
+    bottom: 840px;
+    left: 455px;
+}
+
+#media2 {
+    position: relative;
+    bottom: 855px;
+    left: 460px;
+}
